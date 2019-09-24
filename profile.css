@@ -30,6 +30,12 @@ body{
 	padding-top: 71px; 
 	font-size: 36px;
 }
+.profile-header h1 > hr{
+	width: 1.5em;
+	margin-left: 8.5em;
+	margin-top: -0.6em;
+	transform: rotate(90deg);
+}
 .paragraph-1{
 	padding-top: 39px; 
 	font-size: 16px;
